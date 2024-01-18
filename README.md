@@ -1,3 +1,7 @@
+# node version
+
+-- nvm node -> v18.15.0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
